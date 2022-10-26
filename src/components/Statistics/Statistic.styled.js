@@ -8,3 +8,5 @@ export const Span = styled.div`
   margin: 10px;
   display: block;
 `;
+
+// border: 1px solid red;
